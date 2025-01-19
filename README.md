@@ -19,13 +19,4 @@ Procedure for the Task:
    17  git commit -m "Commiting north.txt or second commit in feature branch but it is not copying data in main branch"
    18  git push -u origin main
    19  git push
-   20  echo "virat kohli" >> central.txt
-   21  git switch main
-   22  git add central.txt
-   23  git commit -m "Commiting central.txt  in main branch"
-   24  git push
-   25  git push -u origin main
-   26  git checkout main
-   27  git push -u origin main
-   28  git push
 
